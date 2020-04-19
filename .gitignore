@@ -1,1 +1,4 @@
 variable.tf
+terrafrorm.tfstate.d/tf-sample/
+files/
+.terraform/
